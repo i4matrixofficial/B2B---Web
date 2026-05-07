@@ -1,0 +1,13 @@
+.next
+node_modules
+dist
+coverage
+.env*
+*.log
+package-lock.json.next
+node_modules
+dist
+coverage
+.env*
+*.log
+package-lock.json
